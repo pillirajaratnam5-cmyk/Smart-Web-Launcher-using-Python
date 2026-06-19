@@ -1,0 +1,72 @@
+import webbrowser
+from datetime import datetime
+
+# 👇 Add your daily sites here
+DAILY_SITES = [
+    "https://mail.google.com",
+    "https://www.youtube.com",
+    "https://news.google.com"
+]
+
+def auto_open_sites():
+    now = datetime.now()
+    hour = now.hour
+
+    # Open only in morning (customize time)
+    if 6 <= hour <= 10:
+        print("Opening your daily sites...")
+        for site in DAILY_SITES:
+            webbrowser.open(site)
+    else:
+        print("Not morning time, skipping auto-open.")
+
+def open_website(choice):
+    if choice == '1':
+        webbrowser.open("https://www.google.com")
+    elif choice == '2':
+        webbrowser.open("https://www.youtube.com")
+    elif choice == '3':
+        webbrowser.open("https://www.github.com")
+    elif choice == '4':
+        webbrowser.open("https://mail.google.com")
+    else:
+        print("Invalid choice!")
+
+def search_google():
+    query = input("Enter what you want to search: ")
+    url = "https://www.google.com/search?q=" + query
+    webbrowser.open(url)
+
+def main():
+    auto_open_sites()  # 👈 runs automatically when program starts
+
+    while True:
+        print("\n--- WEB LAUNCHER ---")
+        print("1. Open Google")
+        print("2. Open YouTube")
+        print("3. Open GitHub")
+        print("4. Open Gmail")
+        print("5. Search on Google")
+        print("6. Exit")
+
+        choice = input("Choose (1-6): ")
+
+        if choice in ['1','2','3','4']:
+            open_website(choice)
+        elif choice == '5':
+            search_google()
+        elif choice == '6':
+            print("Goodbye!")
+            break
+        else:
+            print("Invalid choice!")
+
+if __name__ == "__main__":
+    main()
+# predefined main
+
+
+
+
+
+
