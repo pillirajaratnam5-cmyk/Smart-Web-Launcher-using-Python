@@ -107,7 +107,7 @@ The user is presented with a menu-driven interface for quick website access.
 Launches Google in the default browser.
 
 <p align="center">
-  <img src="images/google_open.png" width="700">
+  <img src="images/Images/" width="700">
 </p>
 
 ---
@@ -137,7 +137,7 @@ Launches GitHub in the default browser.
 Launches Gmail in the default browser.
 
 <p align="center">
-  <img src="images/gmail_open.png" width="700">
+  <img src="images/Images/Open Gmail.png" width="700">
 </p>
 
 ---
