@@ -107,7 +107,7 @@ The user is presented with a menu-driven interface for quick website access.
 Launches Google in the default browser.
 
 <p align="center">
-  <img src="images/Images/" width="700">
+  <img src="images/Images/Open Google.png" width="700">
 </p>
 
 ---
@@ -117,7 +117,7 @@ Launches Google in the default browser.
 Launches YouTube in the default browser.
 
 <p align="center">
-  <img src="images/youtube_open.png" width="700">
+  <img src="images/Images/Open Youtube.pngyoutube_open.png" width="700">
 </p>
 
 ---
@@ -127,7 +127,7 @@ Launches YouTube in the default browser.
 Launches GitHub in the default browser.
 
 <p align="center">
-  <img src="images/github_open.png" width="700">
+  <img src="images/Images/Open Githhub.png" width="700">
 </p>
 
 ---
@@ -147,7 +147,7 @@ Launches Gmail in the default browser.
 Allows users to search any topic directly from the application.
 
 <p align="center">
-  <img src="images/google_search.png" width="700">
+  <img src="images/Images/Search ongle.pnggoogle_search.png" width="700">
 </p>
 
 ---
