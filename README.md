@@ -107,7 +107,7 @@ The user is presented with a menu-driven interface for quick website access.
 Launches Google in the default browser.
 
 <p align="center">
-  <img src="images/Images/Open Google.png" width="700">
+  <img src="Images/Open Google.png" width="700">
 </p>
 
 ---
@@ -117,7 +117,7 @@ Launches Google in the default browser.
 Launches YouTube in the default browser.
 
 <p align="center">
-  <img src="images/Images/Open Youtube.pngyoutube_open.png" width="700">
+  <img src="Images/Open Youtube.pngyoutube_open.png" width="700">
 </p>
 
 ---
