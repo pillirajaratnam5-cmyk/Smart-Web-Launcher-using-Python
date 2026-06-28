@@ -117,7 +117,7 @@ Launches Google in the default browser.
 Launches YouTube in the default browser.
 
 <p align="center">
-  <img src="Images/Open Youtube.pngyoutube_open.png" width="700">
+  <img src="Images/Open Youtube.png" width="700">
 </p>
 
 ---
@@ -127,7 +127,7 @@ Launches YouTube in the default browser.
 Launches GitHub in the default browser.
 
 <p align="center">
-  <img src="Images/Open Githhub.png" width="700">
+  <img src="Images/open Githhub.png" width="700">
 </p>
 
 ---
