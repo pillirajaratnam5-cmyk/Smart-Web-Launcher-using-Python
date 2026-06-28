@@ -97,7 +97,7 @@ The application checks the current time and automatically opens predefined websi
 The user is presented with a menu-driven interface for quick website access.
 
 <p align="center">
-  <img src="images/main_menu.png" width="700">
+  <img src="Images/main menu.png" width="700">
 </p>
 
 ---
@@ -127,7 +127,7 @@ Launches YouTube in the default browser.
 Launches GitHub in the default browser.
 
 <p align="center">
-  <img src="images/Images/Open Githhub.png" width="700">
+  <img src="Images/Open Githhub.png" width="700">
 </p>
 
 ---
@@ -137,7 +137,7 @@ Launches GitHub in the default browser.
 Launches Gmail in the default browser.
 
 <p align="center">
-  <img src="images/Images/Open Gmail.png" width="700">
+  <img src="Images/Open Gmail.png" width="700">
 </p>
 
 ---
@@ -147,7 +147,7 @@ Launches Gmail in the default browser.
 Allows users to search any topic directly from the application.
 
 <p align="center">
-  <img src="images/Images/Search ongle.pnggoogle_search.png" width="700">
+  <img src="Images/Search on Google.png" width="700">
 </p>
 
 ---
